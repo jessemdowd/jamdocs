@@ -1,6 +1,7 @@
 ---
 title: "<del>Not</del> Wanting Kids is Selfish"
 date: "2014-07-17"
+slug: "kids-selfish"
 categories: 
   - "confessional"
   - "conversation"
